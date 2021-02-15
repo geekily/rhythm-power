@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="songs"/>
+	<classpathentry kind="src" path="jars"/>
+	<classpathentry kind="src" path="logintxt"/>
+	<classpathentry kind="lib" path="C:/Users/FrankRosii/Desktop/Developing/ITWill/class/Java／struts／struts2／spring2.5/Java jar/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/FrankRosii/Desktop/Developing/ITWill/class/Java／struts／struts2／spring2.5/Java jar/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
